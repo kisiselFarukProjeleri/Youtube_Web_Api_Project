@@ -1,0 +1,3 @@
+pandas 
+seaborn 
+google-api-python-client
